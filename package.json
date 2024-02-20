@@ -1,0 +1,22 @@
+{
+  "name": "cis485_lab_02",
+  "version": "1.0.0",
+  "description": "Exaviana Tucker's Lab #2 for CIS 485",
+  "main": "app.js",
+  "scripts": {
+    "test": "Error: No Context"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etucker0313/CIS485_Web_2024.git"
+  },
+  "author": "Exaviana Tucker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etucker0313/CIS485_Web_2024/issues"
+  },
+  "homepage": "https://github.com/etucker0313/CIS485_Web_2024#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
